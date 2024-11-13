@@ -8,7 +8,7 @@ const projects = [
   { name: 'Body Shop E-commerce design', description: 'Figma Design', link: 'https://www.figma.com/proto/cD1F7uVOY13HGoV2oCpGcT/Untitled?page-id=0%3A1&node-id=2-2&node-type=canvas&viewport=414%2C-79%2C0.21&t=loY1d8uJxE7rnOVF-1&scaling=scale-down&content-scaling=fixed', image: '/images/bodyshop2.png' },
   { name: 'Resume Builder', description: 'TypeScript, HTML, CSS', link: 'https://dynamic-resume-builder-dusky.vercel.app/', image: '/images/resume.png' },
   { name: 'Restaurant Website', description: 'HTML, CSS', link: 'https://burger-website-eight-ochre.vercel.app/', image: '/images/burger.png' },
-  { name: 'SuperSpace Portfolio', description: 'Next.js, Tailwind CSS', link: 'https://your-link.com/superspace-portfolio', image: '/images/ss.png' },
+  { name: 'SuperSpace Portfolio', description: 'Next.js, Tailwind CSS', link: 'https://super-space-theme-portfolio.vercel.app/', image: '/images/ss.png' },
   { name: 'ATM Machine', description: 'TypeScript', link: 'https://your-link.com/atm-machine', image: '/images/ts.png' },
   { name: 'Static Resume', description: 'TypeScript, HTML', link: 'https://static-resume-milestone1-five.vercel.app/', image: '/images/static.png' },
 ];
